@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gitty/static/css/main.fc5a1251.chunk.css",
+    "main.js": "/gitty/static/js/main.93622d35.chunk.js",
+    "main.js.map": "/gitty/static/js/main.93622d35.chunk.js.map",
+    "runtime-main.js": "/gitty/static/js/runtime-main.e0e8c1cd.js",
+    "runtime-main.js.map": "/gitty/static/js/runtime-main.e0e8c1cd.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/gitty/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.38964748.chunk.js": "/gitty/static/js/2.38964748.chunk.js",
+    "static/js/2.38964748.chunk.js.map": "/gitty/static/js/2.38964748.chunk.js.map",
+    "index.html": "/gitty/index.html",
+    "precache-manifest.7cacc34f47c32c7a33456b34cbceec06.js": "/gitty/precache-manifest.7cacc34f47c32c7a33456b34cbceec06.js",
+    "service-worker.js": "/gitty/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/gitty/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.fc5a1251.chunk.css.map": "/gitty/static/css/main.fc5a1251.chunk.css.map",
+    "static/js/2.38964748.chunk.js.LICENSE.txt": "/gitty/static/js/2.38964748.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gitty/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0e8c1cd.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.38964748.chunk.js",
+    "static/css/main.fc5a1251.chunk.css",
+    "static/js/main.93622d35.chunk.js"
+  ]
+}
