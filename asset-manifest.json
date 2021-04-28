@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gitty/static/css/main.00c425b0.chunk.css",
-    "main.js": "/gitty/static/js/main.01f9a41a.chunk.js",
-    "main.js.map": "/gitty/static/js/main.01f9a41a.chunk.js.map",
+    "main.js": "/gitty/static/js/main.7eb4f878.chunk.js",
+    "main.js.map": "/gitty/static/js/main.7eb4f878.chunk.js.map",
     "runtime-main.js": "/gitty/static/js/runtime-main.e0e8c1cd.js",
     "runtime-main.js.map": "/gitty/static/js/runtime-main.e0e8c1cd.js.map",
     "static/css/2.0f8e233a.chunk.css": "/gitty/static/css/2.0f8e233a.chunk.css",
     "static/js/2.f796c6be.chunk.js": "/gitty/static/js/2.f796c6be.chunk.js",
     "static/js/2.f796c6be.chunk.js.map": "/gitty/static/js/2.f796c6be.chunk.js.map",
     "index.html": "/gitty/index.html",
-    "precache-manifest.75e7580d0b444ab85be5fbaef0b77182.js": "/gitty/precache-manifest.75e7580d0b444ab85be5fbaef0b77182.js",
+    "precache-manifest.0eccb7846f3f1f0311d60c5bb70f3026.js": "/gitty/precache-manifest.0eccb7846f3f1f0311d60c5bb70f3026.js",
     "service-worker.js": "/gitty/service-worker.js",
     "static/css/2.0f8e233a.chunk.css.map": "/gitty/static/css/2.0f8e233a.chunk.css.map",
     "static/css/main.00c425b0.chunk.css.map": "/gitty/static/css/main.00c425b0.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.0f8e233a.chunk.css",
     "static/js/2.f796c6be.chunk.js",
     "static/css/main.00c425b0.chunk.css",
-    "static/js/main.01f9a41a.chunk.js"
+    "static/js/main.7eb4f878.chunk.js"
   ]
 }

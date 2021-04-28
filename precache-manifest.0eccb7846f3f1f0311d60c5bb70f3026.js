@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "987cd8fef278f7ce8d2c15bb4f8af0c0",
+    "revision": "6538e95dac502ad2b780328f67bec5e2",
     "url": "/gitty/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gitty/static/css/2.0f8e233a.chunk.css"
   },
   {
-    "revision": "15ec4900430acbfad52f",
+    "revision": "0d22dcfe33e64bf5e932",
     "url": "/gitty/static/css/main.00c425b0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gitty/static/js/2.f796c6be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15ec4900430acbfad52f",
-    "url": "/gitty/static/js/main.01f9a41a.chunk.js"
+    "revision": "0d22dcfe33e64bf5e932",
+    "url": "/gitty/static/js/main.7eb4f878.chunk.js"
   },
   {
     "revision": "09beb437f7319ce54dcb",
