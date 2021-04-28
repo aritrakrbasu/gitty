@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/gitty/static/css/main.00c425b0.chunk.css",
-    "main.js": "/gitty/static/js/main.3de57cc2.chunk.js",
-    "main.js.map": "/gitty/static/js/main.3de57cc2.chunk.js.map",
+    "main.js": "/gitty/static/js/main.f57dbcda.chunk.js",
+    "main.js.map": "/gitty/static/js/main.f57dbcda.chunk.js.map",
     "runtime-main.js": "/gitty/static/js/runtime-main.e0e8c1cd.js",
     "runtime-main.js.map": "/gitty/static/js/runtime-main.e0e8c1cd.js.map",
     "static/css/2.0f8e233a.chunk.css": "/gitty/static/css/2.0f8e233a.chunk.css",
-    "static/js/2.7b4701b5.chunk.js": "/gitty/static/js/2.7b4701b5.chunk.js",
-    "static/js/2.7b4701b5.chunk.js.map": "/gitty/static/js/2.7b4701b5.chunk.js.map",
+    "static/js/2.754df7ac.chunk.js": "/gitty/static/js/2.754df7ac.chunk.js",
+    "static/js/2.754df7ac.chunk.js.map": "/gitty/static/js/2.754df7ac.chunk.js.map",
     "index.html": "/gitty/index.html",
-    "precache-manifest.2afcba8b11c73902fe92fb02bbf7dbab.js": "/gitty/precache-manifest.2afcba8b11c73902fe92fb02bbf7dbab.js",
+    "precache-manifest.4b2fd1bd2fa20f8b1912af72195b461d.js": "/gitty/precache-manifest.4b2fd1bd2fa20f8b1912af72195b461d.js",
     "service-worker.js": "/gitty/service-worker.js",
     "static/css/2.0f8e233a.chunk.css.map": "/gitty/static/css/2.0f8e233a.chunk.css.map",
     "static/css/main.00c425b0.chunk.css.map": "/gitty/static/css/main.00c425b0.chunk.css.map",
-    "static/js/2.7b4701b5.chunk.js.LICENSE.txt": "/gitty/static/js/2.7b4701b5.chunk.js.LICENSE.txt"
+    "static/js/2.754df7ac.chunk.js.LICENSE.txt": "/gitty/static/js/2.754df7ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e0e8c1cd.js",
     "static/css/2.0f8e233a.chunk.css",
-    "static/js/2.7b4701b5.chunk.js",
+    "static/js/2.754df7ac.chunk.js",
     "static/css/main.00c425b0.chunk.css",
-    "static/js/main.3de57cc2.chunk.js"
+    "static/js/main.f57dbcda.chunk.js"
   ]
 }
