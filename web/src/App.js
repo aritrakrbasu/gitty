@@ -1,18 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Profile from'./profile'; 
-import Home from'./home'; 
-import Repos from'./repos'; 
+import Home from'./home';
 import { BrowserRouter as Router, Route } from "react-router-dom";
+import Test from './test';
+// require('dotenv').config()
 
 
 function App() {
+  
   return (
-    <Router>
-      <Route exact path="/" component={Home}></Route>
-      <Route exact path="/profile" component={Profile}></Route>
-      <Route exact path="/repo" component={Repos}></Route>
+    <Router basename={process.env.PUBLIC_URL}>
+      <Route path="/" component={Test}></Route>
     </Router>
     
   );
